@@ -1,0 +1,27 @@
+getgenv().Config = {
+  ["AutoReplay"] = true,
+  ["AutoJoinMatch"] = true,
+  ["TPLobbylfPlayer"] = true,
+  ["SelectMap"] = "Egg Isaland",
+  ["AutoVoteDifficulty"] = "true",
+  ["SelectDifficulty"] = "Nightmare",
+  ["SelectMacro"] = "NousigiHub/Macro/loisprite",
+  ["AutoSkip"] = true,
+  ["DeleteMap"] = true,
+  ["PlayMacro"] = true,
+  ["AutoSave"] = true,
+  ["BoostFPS"] = true,
+  ["AutoClaimQuest"] = true,
+  ["AutoClaimEasterQuest"] = true,
+  ["AutoClaimEventsPass"] = true,
+  ["WhiteScreen"] = true,
+  ["DelayJoin"] = "60",
+  ["PlacingFailsafe"] = true,
+  ["ExchangeTier"] = "3"
+  ["AutoExchangeEgg"] = "true"
+  ["MaillName"] = "vietdepzaighe"
+  ["RequiredGem"] = 0,
+  ["AutoMail'] = true,
+  ["WH_MatchComplete"] = true,
+  ["WebhookURL"] = "",
+}
